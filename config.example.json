@@ -1,0 +1,6 @@
+{
+  "owner": "YourGitHubOrg",
+  "project_number": 1,
+  "default_format": "html",
+  "output_directory": "reports"
+}
